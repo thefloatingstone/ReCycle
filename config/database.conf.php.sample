@@ -1,0 +1,7 @@
+<?php
+
+define('DATABASE_HOST','localhost');
+define('DATABASE_NAME','recycle'); // Put your database name here
+define('DATABASE_USER','recycle'); // Put your database user here
+define('DATABASE_PASSWORD','pass'); // Put your database password here
+define('DATABASE_PREFIX','rc_'); // Default prefix for table names
